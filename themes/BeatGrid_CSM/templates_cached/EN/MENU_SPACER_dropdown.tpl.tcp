@@ -1,0 +1,3 @@
+<?php
+return unserialize("a:5:{i:0;a:1:{i:0;a:1:{i:0;a:5:{i:0;s:33:\"tcpfunc_5abfcf33bc0121.71933880_1\";i:1;a:0:{}i:2;i:1;i:3;s:0:\"\";i:4;s:0:\"\";}}}i:1;a:0:{}i:2;s:20:\"MENU_SPACER_dropdown\";i:3;N;i:4;a:1:{s:33:\"tcpfunc_5abfcf33bc0121.71933880_1\";s:415:\"\$tpl_funcs['tcpfunc_5abfcf33bc0121.71933880_1']=\$KEEP_TPL_FUNCS['tcpfunc_5abfcf33bc0121.71933880_1']=recall_named_function('5abfcf33bc0197.21623396','\$parameters,\$cl',\"extract(\\\$parameters,EXTR_PREFIX_ALL,'bound'); echo \\\"<li role=\\\\\\\"separator\\\\\\\" class=\\\\\\\"menu_spacer\\\",\\n	((otp(isset(\\\$bound_TOP_LEVEL)?\\\$bound_TOP_LEVEL:null,\\\"TOP_LEVEL/MENU_SPACER_dropdown\\\")==\\\"1\\\")?(\\\" toplevel\\\"):''),\\n	\\\"\\\\\\\"></li>\\\";\");\";}}");
+

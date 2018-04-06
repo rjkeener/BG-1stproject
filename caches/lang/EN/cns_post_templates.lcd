@@ -1,0 +1,28 @@
+a:19:{s:18:"DOC_POST_TEMPLATES";s:362:"Post Templates allow you to help members standardize the formatting of their posts. This can be especially useful in situations such as where you have a support forum, and with every bug report you require people to give you certain information. Simply creating a post template containing prompts for that information can ease the strain of support considerably.";s:14:"POST_TEMPLATES";s:14:"Post Templates";s:13:"POST_TEMPLATE";s:13:"Post Template";s:31:"DEFAULT_POST_TEMPLATE_bug_title";s:10:"Bug report";s:30:"DEFAULT_POST_TEMPLATE_bug_text";s:154:"Version: ?
+Support software environment (operating system, etc.):
+?
+
+Assigned to: ?
+Severity: ?
+Example URL: ?
+Description:
+?
+
+Steps for reproduction:
+?
+
+";s:32:"DEFAULT_POST_TEMPLATE_task_title";s:4:"Task";s:31:"DEFAULT_POST_TEMPLATE_task_text";s:53:"Assigned to: ?
+Priority/Timescale: ?
+Description:
+?
+
+";s:33:"DEFAULT_POST_TEMPLATE_fault_title";s:5:"Fault";s:32:"DEFAULT_POST_TEMPLATE_fault_text";s:91:"Version: ?
+Assigned to: ?
+Severity/Timescale: ?
+Description:
+?
+
+Steps for reproduction:
+?
+
+";s:27:"DESCRIPTION_POST_TEMPLATE_X";s:144:"This will be used as the default post if this template is selected. The member is expected to fill in any obvious blanks you leave in this text.";s:25:"DESCRIPTION_POST_TEMPLATE";s:117:"Selecting from this will place a post template in your post. You may then fill in the obvious blanks in the template.";s:17:"ADD_POST_TEMPLATE";s:17:"Add Post Template";s:18:"EDIT_POST_TEMPLATE";s:18:"Edit Post Template";s:23:"EDIT_THIS_POST_TEMPLATE";s:23:"Edit this Post Template";s:20:"DELETE_POST_TEMPLATE";s:20:"Delete Post Template";s:25:"IMPORT_STOCK_RESPONSES_PT";s:22:"Import stock responses";s:37:"DESCRIPTION_IMPORT_STOCK_RESPONSES_PT";s:345:"You can upload an archive file of text files representing stock responses. They will be saved as post templates to only apply to the specified forum(s). All existing stock responses in that forum selection will be erased. This feature is great if you want to maintain an archive of carefully-optimised quick replies for your support team to use.";s:33:"DESCRIPTION_ARCHIVE_TEXT_FILES_PT";s:75:"An archive (or multi-selection) of text files to upload as stock responses.";s:17:"STOCK_RESPONSE_PT";s:19:"Stock response: {1}";}

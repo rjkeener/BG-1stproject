@@ -1,0 +1,60 @@
+[semihtml][title]Developer Zone[/title]
+Welcome to the Developer Zone of BeatGrid CSM. This zone is for members to create apps and add-ons for all of the members to enjoy. Please continue if you are interested.
+
+<hr />&nbsp;
+<div style="text-align: center;"><span style="font-size:2em;"><strong>How to become an official BeatGrid Developer</strong></span></div>
+What to help out BeatGrid, then you are in luck. To be a developer, you have two (2) choices.&nbsp;<br />
+<br />
+1. You can develop&nbsp;the apps on your own and submit them to the BeatGrid CTO and have it go through test and virus Checks.&nbsp;<img alt=":shake:" src="{$BASE_URL*}/themes/default/images/cns_emoticons/shake.gif" title=":shake:" /><br />
+<br />
+2. You can join the Official BeatGrid team and help build apps for the system that way.&nbsp;<img alt=":lol:" src="{$BASE_URL*}/themes/default/images/cns_emoticons/lol.gif" title=":lol:" /><br />
+&nbsp;
+<hr />Self Development<br />
+If you want to develop software and programs on the side, then you are more than welcome to. We have listed the pros and cons below.<br />
+<br />
+<br />
+<strong><em>Pros:</em></strong><br />
+&nbsp;
+<ul>
+	<li>Work on your own time</li>
+	<li>set your own deadlines</li>
+	<li>Create your projects</li>
+</ul>
+<em><strong>Cons:</strong></em><br />
+&nbsp;
+<ul>
+	<li>Can not get access to the main core</li>
+	<li>Have to ask the CTO for access codes</li>
+	<li>Have to have the program virus checked</li>
+	<li>Restriction</li>
+</ul>
+&nbsp;
+
+<hr />Join the Team<br />
+If you are interested in Developing more than an app, then you got it.<br />
+<br />
+<em><strong>Pros:</strong></em><br />
+&nbsp;
+<ul>
+	<li>Can get access to the core system</li>
+	<li>Can work with other developers and create a team</li>
+	<li>Can get API credential Access</li>
+</ul>
+<br />
+<strong><em>Cons:</em></strong><br />
+&nbsp;
+<ul>
+	<li>Schedule is Set</li>
+	<li>Everything must be cleared</li>
+</ul>
+&nbsp;
+
+<hr /><br />
+You may have a second thought about the devlopers&nbsp;system. If you are interested, we have a Club/Group plan.&nbsp;<br />
+<br />
+Please visit here for more information.<br />
+<br />
+<br />
+Thank you.<br />
+<br />
+-BG CTO[/semihtml]

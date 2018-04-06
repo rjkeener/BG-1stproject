@@ -1,0 +1,3 @@
+<?php
+return unserialize("a:5:{i:0;a:1:{i:0;a:1:{i:0;a:5:{i:0;s:33:\"tcpfunc_5abfd0c2618619.78377881_1\";i:1;a:0:{}i:2;i:1;i:3;s:0:\"\";i:4;s:0:\"\";}}}i:1;a:0:{}i:2;s:29:\"COMCODE_FAKE_TABLE_WRAP_START\";i:3;N;i:4;a:1:{s:33:\"tcpfunc_5abfd0c2618619.78377881_1\";s:236:\"\$tpl_funcs['tcpfunc_5abfd0c2618619.78377881_1']=\$KEEP_TPL_FUNCS['tcpfunc_5abfd0c2618619.78377881_1']=recall_named_function('5abfd0c2618668.17110601','\$parameters,\$cl',\"echo \\\"<div class=\\\\\\\"float_surrounder comcode_fake_table\\\\\\\">\\\";\");\";}}");
+

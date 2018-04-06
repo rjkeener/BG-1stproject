@@ -1,0 +1,13 @@
+{TITLE}
+
+<h2>{!ERRORS_IN_ERROR_LOG}</h2>
+
+{ERROR}
+
+{+START,IF_NON_EMPTY,{PERMISSION}}
+	<h2>{!ERRORS_IN_PERMISSIONS_LOG}</h2>
+
+	<p>{!FULL_PERMISSION_LIST_SEE_FILE}</p>
+
+	<div class="permissions_failed">{PERMISSION*}</div>
+{+END}

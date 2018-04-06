@@ -1,0 +1,47 @@
+[semihtml][title]Keyboard shortcuts[/title]
+These are the key shortcuts that will work on {$SITE_NAME*}.<br />
+<br />
+On most web browsers you can activate a key shortcut by holding down the Alt key and pressing the key code (hold down the Ctrl key on a Mac). You may need to hold down the Shift key in addition.<br />
+<br />
+<b>[tt]C[/tt]</b> Continue to followup page<br />
+<b>[tt]G[/tt]</b> Go back to the top of the page<br />
+<b>[tt]I[/tt]</b> Admin Zone (staff only)<br />
+<b>[tt]J[/tt]</b> Previous<br />
+<b>[tt]K[/tt]</b> Another/Next<br />
+<b>[tt]L[/tt]</b> Log in/Log out<br />
+<b>[tt]M[/tt]</b> Activate the management menu (staff only)<br />
+<b>[tt]N[/tt]</b> Activate bookmarks menu<br />
+{+START,IF,{$ADDON_INSTALLED,commandr}}<b>[tt]O[/tt]</b> Open Commandr (staff only){+END}<br />
+<b>[tt]P[/tt]</b> Preview<br />
+<b>[tt]Q[/tt]</b> Activate edit link (staff only)<br />
+<b>[tt]R[/tt]</b> Rate<br />
+<b>[tt]S[/tt]</b> Skip navigation<br />
+<b>[tt]U[/tt]</b> Submit form<br />
+<b>[tt]W[/tt]</b> Switch user (staff only)<br />
+<b>[tt]X[/tt]</b> Go to the main posting area of a posting form<br />
+<b>[tt]Y[/tt]</b> Go to advanced screen<br />
+<b>[tt]Z[/tt]</b> Select the zone list<br />
+<b>[tt]1[/tt]</b> Home page<br />
+<b>[tt]2[/tt]</b> News archive<br />
+<b>[tt]3[/tt]</b> Site map<br />
+<b>[tt]4[/tt]</b> Search<br />
+<b>[tt]5[/tt]</b> Staff page<br />
+<b>[tt]6[/tt]</b> Help<br />
+<b>[tt]7[/tt]</b> Rules<br />
+<b>[tt]8[/tt]</b> View the website privacy policy<br />
+<b>[tt]9[/tt]</b> Feedback form<br />
+<b>[tt]0[/tt]</b> Keyboard map<br />
+<b>[tt]-[/tt]</b> Webmaster chat (staff only)<br />
+<br />
+[staff_note]The following are free for using:<br />
+<br />
+=<br />
+[<br />
+]<br />
+\<br />
+;<br />
+&#39;<br />
+,<br />
+.<br />
+/<br />
+[/staff_note][/semihtml]

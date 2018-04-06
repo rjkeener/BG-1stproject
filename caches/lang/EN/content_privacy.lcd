@@ -1,0 +1,4 @@
+a:10:{s:16:"PRIVACY_SETTINGS";s:16:"Privacy settings";s:10:"VISIBLE_TO";s:10:"Visible to";s:22:"DESCRIPTION_VISIBLE_TO";s:39:"Select a privacy level for the content.";s:17:"ADDITIONAL_ACCESS";s:17:"Additional access";s:29:"DESCRIPTION_ADDITIONAL_ACCESS";s:92:"Specify a list of friends who can access the content. (A notification will be sent to them).";s:33:"DESCRIPTION_ADDITIONAL_ACCESS_RAW";s:55:"Specify a list of friends who should be allowed access.";s:29:"ACCESS_DENIED__PRIVACY_BREACH";s:85:"You tried to access a content for which you do not have sufficient access permission.";s:33:"NOTIFICATION_TYPE_invited_content";s:31:"Invited to some private content";s:36:"NOTIFICATION_SUBJECT_invited_content";s:38:"{1} invited you to access his content.";s:33:"NOTIFICATION_BODY_invited_content";s:70:"{1} gave you access to {2|a|an} private {2}, {3}.
+
+Access it from:
+{4}";}

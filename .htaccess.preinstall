@@ -1,0 +1,3 @@
+# <BlockUntilInstalled>
+Redirect 404 //index.php
+# </BlockUntilInstalled>

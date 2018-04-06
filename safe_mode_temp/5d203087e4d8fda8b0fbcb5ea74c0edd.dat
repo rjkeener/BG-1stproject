@@ -1,0 +1,15 @@
+a:10:{i:0;s:2556:"<h3 class="notes_about">Notes about your current version (10.0.13)</h3><p>You are <strong>not</strong> running the latest version. Browse the <a title="Composr news archive (this link will open in a new window)" target="_blank" href="https://compo.sr/news.htm">Composr news archive</a> for a full list of the updates or see below for recommended paths.</p><h3>Latest recommended upgrade paths</h3><p class="version vertical_alignment"><span class="version_number">10.0.14</span> 
+        <span class="version_button" id="link_pos_1"></span>
+        <script>// <![CDATA[
+            var div=document.getElementById('link_pos_1');
+            var upgrader_link=get_base_url()+'/upgrader.php?news_id=77&from_version=10.0.13';
+            var h='<form style="display: inline" action="'+upgrader_link+'" target="_blank" method="post"><input class="menu__adminzone__tools__upgrade button_micro" type="submit" title="Upgrade to 10.0.14" value="Launch upgrader" /><\/form>';
+            div.innerHTML=h;
+        //]]></script>
+        <span class="version_news_link">[ <a onclick="window.open(this.href,null,'status=yes,toolbar=no,location=no,menubar=no,resizable=yes,scrollbars=yes,width=976,height=600'); return false;" target="_blank" title="10.0.14 news post (this link will open in a new window)" href="https://compo.sr/news/view/new-releases/composr-10-0-14-released.htm?from_version=10.0.13&amp;wide_high=1">view news post</a> ]</span><span class="version_details">(10.0.14, released 8 days ago)</span> <span class="version_note"></span> <img class="version_help_icon" onmouseout="if (typeof window.deactivateTooltip!='undefined') deactivateTooltip(this,event);" onmousemove="if (typeof window.activateTooltip!='undefined') repositionTooltip(this,event);" onmouseover="if (this.parentNode.title!=undefined) this.parentNode.title=''; if (typeof window.activateTooltip!='undefined') activateTooltip(this,event,'&lt;a id=\&quot;title__0\&quot;&gt;&lt;/a&gt;\n&lt;h2&gt;Inbetween versions&lt;/h2&gt;\n\nManual installer (as opposed to the regular quick installer). Please note this isn&amp;#039;t documentation.','600px',null,null,false,true);" alt="Help" src="https://compo.sr/themes/composr_homesite/images/icons/16x16/help.png" /></p>
+    <noscript>
+        <form style="display: inline" action="../upgrader.php?news_id=77&from_version=10.0.13" target="_blank" method="post">
+            <input class="menu__adminzone__tools__upgrade button_screen_item" type="submit" title="Upgrade to 10.0.14" value="Launch upgrader" />
+        </form>
+    </noscript>
+    ";i:1;s:10:"text/plain";i:2;i:0;i:3;s:93:"http://compo.sr/uploads/website_specific/compo.sr/scripts/version.php?version=10.0.13&lang=EN";i:4;s:3:"200";i:5;N;i:6;a:1:{s:11:"has_cookies";a:6:{s:3:"key";s:11:"has_cookies";s:5:"value";s:1:"1";s:7:"expires";s:29:"Sun, 29-Jul-2018 18:15:57 GMT";s:7:"Max-Age";s:8:"10368000";s:4:"path";s:1:"/";s:6:"domain";N;}}i:7;N;i:8;s:5:"utf-8";i:9;i:1522520157;}

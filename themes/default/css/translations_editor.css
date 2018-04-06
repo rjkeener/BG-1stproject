@@ -1,0 +1,24 @@
+/*
+ {$BRAND_NAME`}
+ Copyright (c) ocProducts, 2004-2016
+*/
+
+.translate_field {
+	color: {$GET,native_ui_foreground} !important;
+}
+
+td.translate_line_first {
+	padding: 0.5em;
+}
+
+.translate_line_second {
+	padding: 0.5em 0.5em 2em 0.5em;
+}
+
+.translate_line_second textarea {
+	border-style: dotted;
+}
+
+.translate_original_text {
+	color: {$GET,unfilled_input_text};
+}
